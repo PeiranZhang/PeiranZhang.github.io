@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows7 安装nodejs
+title: windows7安装nodejs
 ---
 
 1. 系统：64位windows7
